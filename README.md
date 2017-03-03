@@ -1,4 +1,4 @@
 # Interactive Photo Gallery
 Interactive photo gallery with JavaScript search bar and Lightbox.js plugin.
 
-joehdodd.github.com/interactivephotogallery
+htpp://joehdodd.github.com/interactivephotogallery
