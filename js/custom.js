@@ -5,4 +5,4 @@ lightbox.option({
     'wrapAround': true,
     'showImageNumberLabel': false
 
-})
+});

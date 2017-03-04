@@ -90,10 +90,10 @@ input[name="search"] {
         margin-bottom: 20px;
     }
 
-    .lb-nav a.lb-next,
+    /*.lb-nav a.lb-next,
     .lb-nav a.lb-prev{
         opacity: 1;
-    }
+    }*/
 
 }
 
