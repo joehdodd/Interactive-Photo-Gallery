@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body {
+    padding-top: 20px;
+}
+
 /* =======================
        Layout Styles
    ======================= */
@@ -13,7 +17,6 @@
 img {
     width: 100%;
 }
-
 
 input[name="search"] {
     margin: 20px auto;
@@ -31,9 +34,7 @@ input[name="search"] {
       Lightbox Styles
    ======================= */
 
-.lb-outerContainer,
-.lightboxOverlay,
-.lightbox .lb-image {
+.lb-outerContainer, .lightboxOverlay, .lightbox .lb-image {
     border-radius: 0;
     border: none;
 }
@@ -88,6 +89,7 @@ input[name="search"] {
         border-radius: 5px;
         padding: 1em;
         padding-top: 32px;
+        margin-top: 20px;
         margin-bottom: 20px;
     }
 
@@ -95,7 +97,6 @@ input[name="search"] {
     .lb-nav a.lb-prev{
         opacity: 1;
     }*/
-
 }
 
 @media screen and (min-width: 768px) {
